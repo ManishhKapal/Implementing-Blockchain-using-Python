@@ -113,5 +113,3 @@ Access the repository on GitHub:
 This project is open-source and free to use for educational purposes.
 
 ---
-
-Feel free to customize further as needed! 😊

@@ -9,7 +9,7 @@ This project demonstrates a **simple blockchain implementation** in Python with 
 ## 🚀 Features
 - **Block Structure**: Each block contains data, a timestamp, and a cryptographic hash.
 - **Blockchain Validation**: Ensures data integrity by linking blocks with hashes.
-- **Streamlit Frontend**: Provides an easy-to-use interface for interacting with the blockchain.
+- **Streamlit Frontend**: Provides an easy-to-use interface for interacting with the Blockchain.
 
 ---
 
